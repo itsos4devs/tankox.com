@@ -1,0 +1,40 @@
+
+User-agent: *
+Disallow: /inv2v0pz
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://tankox.com/inv2v0pz/sitemap.xml
+
+User-agent: *
+Disallow: /y36fl
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://tankox.com/y36fl/sitemap.xml
+
+User-agent: *
+Disallow: /fqucrv
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://tankox.com/fqucrv/sitemap.xml
+
+User-agent: *
+Disallow: /passing-out-xrtswtq
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://tankox.com/passing-out-xrtswtq/sitemap.xml
+
+User-agent: *
+Disallow: /fec8hl
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://tankox.com/fec8hl/sitemap.xml
